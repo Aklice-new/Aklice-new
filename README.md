@@ -6,3 +6,6 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aklice-new&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aklice-new's Github Stats">
 </p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklice-new&langs_count=10&theme=tokyonight&layout=compact" alt="Aklice-new :: Top Langs" /></p> 
