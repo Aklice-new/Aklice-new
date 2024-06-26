@@ -4,7 +4,10 @@
 - 🔭 I’m currently a master studying in **Northwestern Polytechnical University** in Sha'anxi.China .
 - 🌱 I’m currently learning **3D Reconstruction**, **Deeplearing**, **HPC** and **Inference Framework**.
 - 💬 Ask me about ...
-- 📫 How to reach me? Here is my email Aklice1016@gail.com
+- 📫 How to reach me? Just leave a message on my email.
+
+what I am good at?
+
 
 ![Static Badge](https://img.shields.io/badge/-ubuntu-orange?style=flat&logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/-C/C++-blue?style=flat&logo=cplusplus)
