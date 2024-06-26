@@ -2,7 +2,7 @@
 
 - 😄 Hello! Welcome to Aklice homepage.
 - 🔭 I’m currently a master studying in **Northwestern Polytechnical University** in Sha'anxi.China .
-- 🌱 I’m currently learning **3D Reconstruction**, **Deeplearing**, **HPC** and **MLsys**.
+- 🌱 I’m currently learning **3D Reconstruction**, **Deeplearing**, **HPC** and **Inference Framework**.
 - 💬 Ask me about ...
 - 📫 How to reach me? Here is my email Aklice1016@gail.com
 
